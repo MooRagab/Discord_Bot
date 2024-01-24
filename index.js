@@ -19,8 +19,7 @@ client.on("messageCreate", (message) => {
     });
   } else {
     message.reply({
-      content: "Bas Ya 3ars",
-    });
+      content: "RAGAB 3ME"
   }
 });
 
